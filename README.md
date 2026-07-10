@@ -1,24 +1,19 @@
-# cloudflare-stream-sdk
+# cloudflare-stream SDK
 
-Sovereign SDK wrapper for **Cloudflare Stream** · Video · AI-Native Solutions estate.
-
-Auto-generated from target docs.
+> Sovereign wrapper for target · real bindings
 
 ## Install
-```bash
+
+```
 npm install @ai-native-solutions/cloudflare-stream-sdk
 ```
 
-## Quick start
-```js
-import { CloudflareStream } from '@ai-native-solutions/cloudflare-stream-sdk';
-const client = new CloudflareStream({ apiKey: process.env.CLOUDFLARE_STREAM_API_KEY });
-// See docs at https://developers.cloudflare.com/stream/
-```
+## Links
 
-## Docs (upstream)
-- https://developers.cloudflare.com/stream/
-- https://www.cloudflare.com/products/cloudflare-stream/
+- FallMarket listing: https://sjgant80-hub.github.io/fallmarket/listing.html?id=cloudflare-stream-sdk
+- Source: https://github.com/sjgant80-hub/cloudflare-stream-sdk
+- Playground: https://sjgant80-hub.github.io/cloudflare-stream-sdk/
 
-## Estate
-Part of the AI-Native Solutions sovereign estate. MIT.
+## License
+
+MIT · Copyright 2026 AI-Native Solutions · https://ai-nativesolutions.com
